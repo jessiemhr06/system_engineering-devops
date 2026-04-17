@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Change the group owner of hello to school
-chgrp school hello
+# Change the group owner of hello to school chgrp school hello
